@@ -184,6 +184,7 @@ nav .logo{
     top: 5px;
     left: 0px;
     color: #ff6600;
+    z-index: 1;
 }
 nav ul{
     position:fixed;
